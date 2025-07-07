@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/8570f1f86f1b44819ee7e130cd8d4a60/artifacts
+end_time: 1751790809745
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8570f1f86f1b44819ee7e130cd8d4a60
+run_name: dazzling-shark-51
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751790790404
+status: 3
+tags: []
+user_id: PC

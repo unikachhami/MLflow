@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/3d853e1f6ae54d7c9b36dc8722fb7adb/artifacts
+end_time: 1751807787966
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3d853e1f6ae54d7c9b36dc8722fb7adb
+run_name: agreeable-cow-853
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751807526836
+status: 3
+tags: []
+user_id: PC

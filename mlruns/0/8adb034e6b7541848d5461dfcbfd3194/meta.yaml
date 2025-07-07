@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/8adb034e6b7541848d5461dfcbfd3194/artifacts
+end_time: 1751807173388
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8adb034e6b7541848d5461dfcbfd3194
+run_name: indecisive-kite-360
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751807153062
+status: 4
+tags: []
+user_id: PC

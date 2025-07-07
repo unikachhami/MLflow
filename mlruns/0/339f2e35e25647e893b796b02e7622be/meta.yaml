@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/339f2e35e25647e893b796b02e7622be/artifacts
+end_time: 1751783550178
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 339f2e35e25647e893b796b02e7622be
+run_name: trusting-wasp-690
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751783549149
+status: 3
+tags: []
+user_id: PC
